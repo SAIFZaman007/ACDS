@@ -162,6 +162,5 @@ class boundaries above make each of these a self-contained addition:
 - A `tests/` folder with `pytest` around `fingers_extended` / `classify_gesture`
   (they're pure functions — no camera needed to test them)
 
-## License
 
-MIT — do whatever you'd like with this.
+  # *.+
