@@ -1,43 +1,14 @@
-# Byte-compiled / build artefacts
+# Python-generated files
 __pycache__/
-*.py[cod]
-*.so
+*.py[oc]
 build/
 dist/
-*.egg-info/
-.eggs/
+wheels/
+*.egg-info
 
 # Virtual environments
-.venv/
-venv/
-env/
+.venv
 
-# Test & tooling caches
-.pytest_cache/
-.ruff_cache/
-.mypy_cache/
-.coverage
-.coverage.*
-htmlcov/
-coverage.xml
-
-# Recorded sessions — these contain video of the user. Never commit them.
-sessions/
-*.mp4
-*.avi
-*.mkv
-
-# Local overrides
-.env
-config.local.yaml
-configs/local.*
-
-# Editors / OS
-.idea/
-.vscode/
-*.swp
-.DS_Store
-Thumbs.db
-
-
-    #     *** _ ***
+# Air Drawing System — generated at runtime, not source
+outputs/
+models/*.task
