@@ -1,4 +1,4 @@
-# Air Drawing System
+# Air Canvas Drawing System
 
 Draw on screen without touching anything. Point your index finger to draw,
 open your palm to erase, tap the on-screen toolbar to change colors, and
