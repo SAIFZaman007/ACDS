@@ -163,4 +163,4 @@ class boundaries above make each of these a self-contained addition:
   (they're pure functions — no camera needed to test them)
 
 
-  # *.+
+  # *.*
